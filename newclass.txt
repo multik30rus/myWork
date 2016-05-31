@@ -1,0 +1,22 @@
+<div class="maxsite ">
+<?php require_once "block/meny.php" ?>
+
+<div class="my-slider">
+    <ul>
+        <li class="slide1">
+            <h2>Дома под ключ.</h2>
+            <a href="ourConstr.php">подробнее...</a>
+            <img src="image/slide1.jpg" alt="slide1">
+        </li>
+        <li class="slide2">
+            <img src="image/slide2.jpg" alt="slide1">
+            <h2>Кровельные работы.</h2>
+            <a href="roof.php">подробнее...</a>
+        </li>
+        <li class="slide2">
+            <img src="image/slide3.jpg" alt="slide1">
+            <h2>Изготовление лестниц.</h2>
+
+            <a href="stairs.php">подробнее...</a></li>
+    </ul>
+</div>
