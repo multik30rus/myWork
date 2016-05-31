@@ -1,2 +1,2 @@
 helloy world
-test new class
+test new
